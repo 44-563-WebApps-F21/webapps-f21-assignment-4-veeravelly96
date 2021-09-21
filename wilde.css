@@ -1,0 +1,23 @@
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+
+.Stage-direction{
+    background-color: lightcyan;
+}
+
+.Stage-direction:hover{
+    background-color:yellow;
+    color: red;
+}
+.PHIPPS
+{
+   color: blue;
+   font-size: 20px;
+}
+.LORDGORING{
+    color: greenyellow;
+    font-size: 20px;
+}

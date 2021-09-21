@@ -1,11 +1,18 @@
-.name{
+h6{
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     color: black;
 }
 
 .Stage-direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
     background-color: lightcyan;
+}
+
+.Speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
 }
 
 .Stage-direction:hover{

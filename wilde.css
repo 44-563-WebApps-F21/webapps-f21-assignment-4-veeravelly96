@@ -33,6 +33,11 @@ h6{
     color: greenyellow;
     font-size: 15px;
 }
+.LORDCAVERSHAM{
+    color: red;
+    font-size: 15px;
+}
+
 table, th, td{
     border: 1px solid black;
     border-collapse: collapse;
@@ -44,4 +49,5 @@ table, th, td{
 tr:nth-child(odd) {
     background-color: green;
   }
+
 

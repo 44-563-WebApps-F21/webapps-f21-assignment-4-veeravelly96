@@ -40,7 +40,23 @@ h6{
     font-size: 15px;
 }
 
+.LORDGORING:hover{
+    text-shadow: 1px 2px 3px violet;
+    border-style: ridge;
+    border: 1px solid;
+    background-color: yellow;
+    box-shadow: 4px 4px gray;
+    filter: blur(1px);
+}
 
+.LORDCAVERSHAM:hover{
+    text-shadow: 2px 3px 4px crimson ;
+    border-style: double;
+    border: 1px solid;
+    background-color: darkcyan;
+    box-shadow: 4px 4px 4px gray;
+    filter: blur(1px);
+}
 
 
 table, th, td{

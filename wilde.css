@@ -33,4 +33,15 @@ h6{
     color: greenyellow;
     font-size: 15px;
 }
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    width: 40%;
+    padding: 7px;
+
+}
+tr:nth-child(odd) {
+    background-color: green;
+  }
 

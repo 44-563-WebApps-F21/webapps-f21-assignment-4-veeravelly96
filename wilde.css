@@ -71,4 +71,21 @@ tr:nth-child(odd) {
     background-color: green;
   }
 
-
+  ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    background: linear-gradient(110deg, green 60%,pink 60%);
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:20px;
+    color: violet;
+}
+ul.navbar-horizontal a:hover {
+    background-color:yellow;
+    color:yellowgreen;
+}
